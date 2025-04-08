@@ -7,7 +7,6 @@
 This project demonstrates how to handle **button inputs using interrupts (ISRs)** on the **ESP32** microcontroller, with **software debouncing** and **LED control**. It uses the **Wokwi simulator** for testing and also generates **waveform analysis** using `.vcd` files.
 
 ---
----
 
 ## Features
 
